@@ -1,0 +1,51 @@
+ClassID,Class_Name,Start_Item,HP,Mana
+CLS-001,Warrior,Iron Sword,1400,40
+CLS-002,Mage,Apprentice Staff,700,1600
+CLS-003,Archer,Short Bow,950,500
+CLS-004,Paladin,Blessed Mace,1500,800
+CLS-005,Rogue,Rusty Dagger,900,300
+CLS-006,Priest,Holy Scepter,800,1500
+CLS-007,Necromancer,Bone Wand,750,1450
+CLS-008,Druid,Oak Branch,1000,1100
+CLS-009,Berserker,Battle Axe,1700,100
+CLS-010,Sorcerer,Crystal Orb,680,1700
+CLS-011,Knight,Steel Lance,1550,400
+CLS-012,Hunter,Hunting Bow,980,450
+CLS-013,Monk,Prayer Beads,1200,900
+CLS-014,Warlock,Cursed Tome,760,1550
+CLS-015,Assassin,Poisoned Blade,870,350
+CLS-016,Cleric,Wooden Staff,850,1400
+CLS-017,Ranger,Composite Bow,1020,550
+CLS-018,Templar,Sacred Sword,1480,700
+CLS-019,Shaman,Spirit Totem,1050,1200
+CLS-020,Bard,Lute,820,1000
+CLS-021,Dark Warrior,Iron Sword,1373,0
+CLS-022,Arcane Mage,Apprentice Staff,660,1685
+CLS-023,Wild Archer,Short Bow,905,585
+CLS-024,Arcane Paladin,Blessed Mace,1507,801
+CLS-025,Wild Rogue,Rusty Dagger,805,307
+CLS-026,Dark Priest,Holy Scepter,737,1438
+CLS-027,Flame Necromancer,Bone Wand,689,1442
+CLS-028,Arcane Druid,Oak Branch,958,1128
+CLS-029,Storm Berserker,Battle Axe,1672,40
+CLS-030,Stone Sorcerer,Crystal Orb,695,1665
+CLS-031,Holy Knight,Steel Lance,1540,356
+CLS-032,Flame Hunter,Hunting Bow,1028,384
+CLS-033,Flame Monk,Prayer Beads,1275,929
+CLS-034,Arcane Warlock,Cursed Tome,825,1589
+CLS-035,Shadow Assassin,Poisoned Blade,921,448
+CLS-036,Dark Cleric,Wooden Staff,822,1429
+CLS-037,Blood Ranger,Composite Bow,1064,541
+CLS-038,Storm Templar,Sacred Sword,1521,708
+CLS-039,Arcane Shaman,Spirit Totem,964,1110
+CLS-040,Flame Bard,Lute,850,1092
+CLS-041,Shadow Mage,Apprentice Staff,685,1609
+CLS-042,Frost Archer,Short Bow,962,574
+CLS-043,Storm Paladin,Blessed Mace,1412,754
+CLS-044,Blood Rogue,Rusty Dagger,926,382
+CLS-045,Blood Priest,Holy Scepter,885,1512
+CLS-046,Wild Necromancer,Bone Wand,720,1491
+CLS-047,Frost Druid,Oak Branch,1095,1194
+CLS-048,Shadow Berserker,Battle Axe,1674,105
+CLS-049,Blood Sorcerer,Crystal Orb,676,1608
+CLS-050,Stone Knight,Steel Lance,1571,308

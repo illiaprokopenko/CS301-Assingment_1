@@ -1,0 +1,501 @@
+ServerIP,Server_Name,Location,Max_Server_Load
+180440121,us-east-game-001,"Virginia, USA",1000
+180363722,us-west-game-002,"Oregon, USA",1000
+172981407,eu-west-game-003,"Dublin, Ireland",1500
+183699124,eu-central-game-004,"Frankfurt, Germany",1000
+184506575,ap-southeast-game-005,Singapore,2000
+173817235,ap-northeast-game-006,"Tokyo, Japan",3000
+181927103,ap-south-game-007,"Mumbai, India",1500
+175550607,sa-east-game-008,"Sao Paulo, Brazil",1000
+171152740,ca-central-game-009,"Toronto, Canada",500
+173378064,af-south-game-010,"Cape Town, South Africa",3000
+178129253,me-south-game-011,Bahrain,1500
+182492767,au-east-game-012,"Sydney, Australia",500
+179117022,us-east-game-013,"Virginia, USA",1000
+182141863,us-west-game-014,"Oregon, USA",2000
+169130577,eu-west-game-015,"Dublin, Ireland",1000
+169811020,eu-central-game-016,"Frankfurt, Germany",1000
+172123670,ap-southeast-game-017,Singapore,3000
+169575026,ap-northeast-game-018,"Tokyo, Japan",500
+168873335,ap-south-game-019,"Mumbai, India",2000
+168371001,sa-east-game-020,"Sao Paulo, Brazil",3000
+178212613,ca-central-game-021,"Toronto, Canada",500
+168438387,af-south-game-022,"Cape Town, South Africa",2000
+168307601,me-south-game-023,Bahrain,1500
+180671995,au-east-game-024,"Sydney, Australia",1000
+173424477,us-east-game-025,"Virginia, USA",2000
+173779774,us-west-game-026,"Oregon, USA",2000
+180588896,eu-west-game-027,"Dublin, Ireland",1500
+184330043,eu-central-game-028,"Frankfurt, Germany",2000
+173649275,ap-southeast-game-029,Singapore,2000
+174888212,ap-northeast-game-030,"Tokyo, Japan",1000
+175654660,ap-south-game-031,"Mumbai, India",1500
+181951212,sa-east-game-032,"Sao Paulo, Brazil",3000
+178735659,ca-central-game-033,"Toronto, Canada",1500
+171856696,af-south-game-034,"Cape Town, South Africa",1000
+171785988,me-south-game-035,Bahrain,500
+168859511,au-east-game-036,"Sydney, Australia",1000
+173883446,us-east-game-037,"Virginia, USA",1500
+176324501,us-west-game-038,"Oregon, USA",2000
+182994800,eu-west-game-039,"Dublin, Ireland",500
+172655895,eu-central-game-040,"Frankfurt, Germany",2000
+173973046,ap-southeast-game-041,Singapore,3000
+181505423,ap-northeast-game-042,"Tokyo, Japan",2000
+178255627,ap-south-game-043,"Mumbai, India",1500
+181405317,sa-east-game-044,"Sao Paulo, Brazil",1500
+167864111,ca-central-game-045,"Toronto, Canada",2000
+179611670,af-south-game-046,"Cape Town, South Africa",1500
+168411083,me-south-game-047,Bahrain,1500
+182269532,au-east-game-048,"Sydney, Australia",2000
+181732439,us-east-game-049,"Virginia, USA",2000
+172144708,us-west-game-050,"Oregon, USA",500
+170351114,eu-west-game-051,"Dublin, Ireland",3000
+181769008,eu-central-game-052,"Frankfurt, Germany",1000
+175686973,ap-southeast-game-053,Singapore,500
+171505819,ap-northeast-game-054,"Tokyo, Japan",3000
+171942373,ap-south-game-055,"Mumbai, India",3000
+183189977,sa-east-game-056,"Sao Paulo, Brazil",2000
+169875899,ca-central-game-057,"Toronto, Canada",1000
+172740348,af-south-game-058,"Cape Town, South Africa",500
+178359047,me-south-game-059,Bahrain,1000
+170552688,au-east-game-060,"Sydney, Australia",1500
+184138926,us-east-game-061,"Virginia, USA",2000
+180799139,us-west-game-062,"Oregon, USA",2000
+172650073,eu-west-game-063,"Dublin, Ireland",3000
+183652001,eu-central-game-064,"Frankfurt, Germany",500
+168891720,ap-southeast-game-065,Singapore,2000
+174205835,ap-northeast-game-066,"Tokyo, Japan",3000
+177536233,ap-south-game-067,"Mumbai, India",1000
+181693577,sa-east-game-068,"Sao Paulo, Brazil",2000
+183889732,ca-central-game-069,"Toronto, Canada",500
+184112846,af-south-game-070,"Cape Town, South Africa",1500
+177584871,me-south-game-071,Bahrain,1000
+174225528,au-east-game-072,"Sydney, Australia",3000
+183340099,us-east-game-073,"Virginia, USA",3000
+175856776,us-west-game-074,"Oregon, USA",1500
+178683071,eu-west-game-075,"Dublin, Ireland",3000
+176794864,eu-central-game-076,"Frankfurt, Germany",1500
+168725995,ap-southeast-game-077,Singapore,2000
+183366132,ap-northeast-game-078,"Tokyo, Japan",3000
+181246003,ap-south-game-079,"Mumbai, India",1000
+169238097,sa-east-game-080,"Sao Paulo, Brazil",1500
+182562474,ca-central-game-081,"Toronto, Canada",1000
+169489749,af-south-game-082,"Cape Town, South Africa",1000
+182725249,me-south-game-083,Bahrain,3000
+178981666,au-east-game-084,"Sydney, Australia",1500
+169763525,us-east-game-085,"Virginia, USA",1500
+183858400,us-west-game-086,"Oregon, USA",500
+181984974,eu-west-game-087,"Dublin, Ireland",500
+178521923,eu-central-game-088,"Frankfurt, Germany",3000
+173306834,ap-southeast-game-089,Singapore,500
+178607984,ap-northeast-game-090,"Tokyo, Japan",500
+171675515,ap-south-game-091,"Mumbai, India",3000
+176534033,sa-east-game-092,"Sao Paulo, Brazil",1000
+175711762,ca-central-game-093,"Toronto, Canada",500
+169501599,af-south-game-094,"Cape Town, South Africa",1000
+173757253,me-south-game-095,Bahrain,1000
+175094747,au-east-game-096,"Sydney, Australia",1500
+174352719,us-east-game-097,"Virginia, USA",1500
+170319378,us-west-game-098,"Oregon, USA",1000
+171981686,eu-west-game-099,"Dublin, Ireland",1500
+181526857,eu-central-game-100,"Frankfurt, Germany",1500
+184051857,ap-southeast-game-101,Singapore,500
+175137141,ap-northeast-game-102,"Tokyo, Japan",3000
+178223392,ap-south-game-103,"Mumbai, India",1000
+176999855,sa-east-game-104,"Sao Paulo, Brazil",1000
+181482211,ca-central-game-105,"Toronto, Canada",2000
+176258377,af-south-game-106,"Cape Town, South Africa",1000
+182463140,me-south-game-107,Bahrain,1000
+171158994,au-east-game-108,"Sydney, Australia",1500
+184210622,us-east-game-109,"Virginia, USA",2000
+184350018,us-west-game-110,"Oregon, USA",2000
+172168211,eu-west-game-111,"Dublin, Ireland",2000
+170509705,eu-central-game-112,"Frankfurt, Germany",1500
+168861344,ap-southeast-game-113,Singapore,1500
+184511006,ap-northeast-game-114,"Tokyo, Japan",2000
+178985102,ap-south-game-115,"Mumbai, India",500
+182531900,sa-east-game-116,"Sao Paulo, Brazil",1000
+172029887,ca-central-game-117,"Toronto, Canada",3000
+178194498,af-south-game-118,"Cape Town, South Africa",1500
+171254515,me-south-game-119,Bahrain,1500
+174837543,au-east-game-120,"Sydney, Australia",3000
+175126657,us-east-game-121,"Virginia, USA",1500
+182487122,us-west-game-122,"Oregon, USA",1000
+170305618,eu-west-game-123,"Dublin, Ireland",1500
+184469992,eu-central-game-124,"Frankfurt, Germany",1000
+184316721,ap-southeast-game-125,Singapore,3000
+168157414,ap-northeast-game-126,"Tokyo, Japan",2000
+183061107,ap-south-game-127,"Mumbai, India",500
+173575625,sa-east-game-128,"Sao Paulo, Brazil",1000
+170601900,ca-central-game-129,"Toronto, Canada",1000
+175086334,af-south-game-130,"Cape Town, South Africa",2000
+182934204,me-south-game-131,Bahrain,500
+177483641,au-east-game-132,"Sydney, Australia",3000
+168767269,us-east-game-133,"Virginia, USA",1500
+174218417,us-west-game-134,"Oregon, USA",1000
+168577992,eu-west-game-135,"Dublin, Ireland",500
+169124177,eu-central-game-136,"Frankfurt, Germany",500
+178566456,ap-southeast-game-137,Singapore,3000
+174529518,ap-northeast-game-138,"Tokyo, Japan",2000
+179964303,ap-south-game-139,"Mumbai, India",500
+168243244,sa-east-game-140,"Sao Paulo, Brazil",2000
+176569369,ca-central-game-141,"Toronto, Canada",1000
+181430862,af-south-game-142,"Cape Town, South Africa",1000
+181690241,me-south-game-143,Bahrain,1500
+174386727,au-east-game-144,"Sydney, Australia",2000
+180373329,us-east-game-145,"Virginia, USA",3000
+179121367,us-west-game-146,"Oregon, USA",3000
+177773813,eu-west-game-147,"Dublin, Ireland",1000
+181438547,eu-central-game-148,"Frankfurt, Germany",500
+179097011,ap-southeast-game-149,Singapore,2000
+178641935,ap-northeast-game-150,"Tokyo, Japan",3000
+179651688,ap-south-game-151,"Mumbai, India",1500
+182188965,sa-east-game-152,"Sao Paulo, Brazil",500
+184174078,ca-central-game-153,"Toronto, Canada",3000
+177926140,af-south-game-154,"Cape Town, South Africa",2000
+180762969,me-south-game-155,Bahrain,2000
+169221652,au-east-game-156,"Sydney, Australia",1500
+173816955,us-east-game-157,"Virginia, USA",3000
+181599534,us-west-game-158,"Oregon, USA",1500
+170182239,eu-west-game-159,"Dublin, Ireland",1000
+180385034,eu-central-game-160,"Frankfurt, Germany",3000
+171040483,ap-southeast-game-161,Singapore,3000
+183660975,ap-northeast-game-162,"Tokyo, Japan",1000
+171950419,ap-south-game-163,"Mumbai, India",500
+176662682,sa-east-game-164,"Sao Paulo, Brazil",3000
+170526996,ca-central-game-165,"Toronto, Canada",3000
+174544336,af-south-game-166,"Cape Town, South Africa",1500
+182457372,me-south-game-167,Bahrain,3000
+176556170,au-east-game-168,"Sydney, Australia",1000
+171517443,us-east-game-169,"Virginia, USA",1500
+169052128,us-west-game-170,"Oregon, USA",2000
+179810312,eu-west-game-171,"Dublin, Ireland",3000
+178972647,eu-central-game-172,"Frankfurt, Germany",1000
+178658030,ap-southeast-game-173,Singapore,2000
+183833731,ap-northeast-game-174,"Tokyo, Japan",500
+174941029,ap-south-game-175,"Mumbai, India",3000
+179979606,sa-east-game-176,"Sao Paulo, Brazil",2000
+174362663,ca-central-game-177,"Toronto, Canada",3000
+180827563,af-south-game-178,"Cape Town, South Africa",1000
+173118460,me-south-game-179,Bahrain,500
+183544940,au-east-game-180,"Sydney, Australia",2000
+178268787,us-east-game-181,"Virginia, USA",2000
+174595384,us-west-game-182,"Oregon, USA",500
+168367170,eu-west-game-183,"Dublin, Ireland",3000
+172402468,eu-central-game-184,"Frankfurt, Germany",1000
+168345648,ap-southeast-game-185,Singapore,3000
+173704240,ap-northeast-game-186,"Tokyo, Japan",2000
+170265711,ap-south-game-187,"Mumbai, India",1000
+169062753,sa-east-game-188,"Sao Paulo, Brazil",3000
+178496888,ca-central-game-189,"Toronto, Canada",1000
+171910548,af-south-game-190,"Cape Town, South Africa",3000
+180582831,me-south-game-191,Bahrain,500
+180193832,au-east-game-192,"Sydney, Australia",500
+181116430,us-east-game-193,"Virginia, USA",3000
+183732580,us-west-game-194,"Oregon, USA",500
+178364205,eu-west-game-195,"Dublin, Ireland",2000
+176245996,eu-central-game-196,"Frankfurt, Germany",1500
+177251670,ap-southeast-game-197,Singapore,2000
+172370732,ap-northeast-game-198,"Tokyo, Japan",1500
+179310736,ap-south-game-199,"Mumbai, India",2000
+170829871,sa-east-game-200,"Sao Paulo, Brazil",500
+169650580,ca-central-game-201,"Toronto, Canada",2000
+177664321,af-south-game-202,"Cape Town, South Africa",2000
+169836758,me-south-game-203,Bahrain,500
+168927502,au-east-game-204,"Sydney, Australia",1500
+180344115,us-east-game-205,"Virginia, USA",2000
+172477250,us-west-game-206,"Oregon, USA",1000
+170855708,eu-west-game-207,"Dublin, Ireland",2000
+183778227,eu-central-game-208,"Frankfurt, Germany",2000
+171466446,ap-southeast-game-209,Singapore,1500
+174454620,ap-northeast-game-210,"Tokyo, Japan",1500
+180556602,ap-south-game-211,"Mumbai, India",500
+172542687,sa-east-game-212,"Sao Paulo, Brazil",3000
+175869072,ca-central-game-213,"Toronto, Canada",1000
+175287280,af-south-game-214,"Cape Town, South Africa",1500
+171005912,me-south-game-215,Bahrain,1000
+170291359,au-east-game-216,"Sydney, Australia",1000
+169391533,us-east-game-217,"Virginia, USA",2000
+179845537,us-west-game-218,"Oregon, USA",500
+170630565,eu-west-game-219,"Dublin, Ireland",1500
+172768402,eu-central-game-220,"Frankfurt, Germany",1500
+173319940,ap-southeast-game-221,Singapore,1000
+169359868,ap-northeast-game-222,"Tokyo, Japan",1000
+179015798,ap-south-game-223,"Mumbai, India",1000
+176767897,sa-east-game-224,"Sao Paulo, Brazil",3000
+180022763,ca-central-game-225,"Toronto, Canada",3000
+174239088,af-south-game-226,"Cape Town, South Africa",2000
+181963242,me-south-game-227,Bahrain,3000
+173104197,au-east-game-228,"Sydney, Australia",1000
+172484159,us-east-game-229,"Virginia, USA",500
+177906385,us-west-game-230,"Oregon, USA",2000
+172262307,eu-west-game-231,"Dublin, Ireland",1500
+172104883,eu-central-game-232,"Frankfurt, Germany",1000
+172794447,ap-southeast-game-233,Singapore,1500
+182471695,ap-northeast-game-234,"Tokyo, Japan",500
+176723863,ap-south-game-235,"Mumbai, India",3000
+170020196,sa-east-game-236,"Sao Paulo, Brazil",1000
+177840541,ca-central-game-237,"Toronto, Canada",1500
+180073709,af-south-game-238,"Cape Town, South Africa",2000
+170932892,me-south-game-239,Bahrain,2000
+180655397,au-east-game-240,"Sydney, Australia",3000
+170428078,us-east-game-241,"Virginia, USA",1000
+170491240,us-west-game-242,"Oregon, USA",2000
+174776251,eu-west-game-243,"Dublin, Ireland",3000
+172746919,eu-central-game-244,"Frankfurt, Germany",1000
+169034157,ap-southeast-game-245,Singapore,1000
+180161497,ap-northeast-game-246,"Tokyo, Japan",2000
+179906204,ap-south-game-247,"Mumbai, India",3000
+176985206,sa-east-game-248,"Sao Paulo, Brazil",500
+180134592,ca-central-game-249,"Toronto, Canada",3000
+179987538,af-south-game-250,"Cape Town, South Africa",3000
+174219721,me-south-game-251,Bahrain,1500
+180309831,au-east-game-252,"Sydney, Australia",3000
+169698544,us-east-game-253,"Virginia, USA",1500
+176106183,us-west-game-254,"Oregon, USA",2000
+171085229,eu-west-game-255,"Dublin, Ireland",3000
+183293034,eu-central-game-256,"Frankfurt, Germany",1500
+183724927,ap-southeast-game-257,Singapore,1500
+176561767,ap-northeast-game-258,"Tokyo, Japan",1500
+182428181,ap-south-game-259,"Mumbai, India",3000
+182562262,sa-east-game-260,"Sao Paulo, Brazil",3000
+183123524,ca-central-game-261,"Toronto, Canada",500
+167981480,af-south-game-262,"Cape Town, South Africa",1000
+168509700,me-south-game-263,Bahrain,1500
+177524551,au-east-game-264,"Sydney, Australia",1500
+178226459,us-east-game-265,"Virginia, USA",2000
+180752058,us-west-game-266,"Oregon, USA",500
+171875514,eu-west-game-267,"Dublin, Ireland",1000
+174498147,eu-central-game-268,"Frankfurt, Germany",3000
+175342326,ap-southeast-game-269,Singapore,500
+176079257,ap-northeast-game-270,"Tokyo, Japan",3000
+177955694,ap-south-game-271,"Mumbai, India",3000
+175956316,sa-east-game-272,"Sao Paulo, Brazil",1000
+174117095,ca-central-game-273,"Toronto, Canada",500
+179992369,af-south-game-274,"Cape Town, South Africa",500
+177816140,me-south-game-275,Bahrain,1500
+181479826,au-east-game-276,"Sydney, Australia",1500
+174505112,us-east-game-277,"Virginia, USA",1500
+182270764,us-west-game-278,"Oregon, USA",500
+178945842,eu-west-game-279,"Dublin, Ireland",2000
+174350744,eu-central-game-280,"Frankfurt, Germany",1500
+183749923,ap-southeast-game-281,Singapore,1500
+179129476,ap-northeast-game-282,"Tokyo, Japan",1500
+182631077,ap-south-game-283,"Mumbai, India",500
+173591443,sa-east-game-284,"Sao Paulo, Brazil",500
+178387360,ca-central-game-285,"Toronto, Canada",1500
+175307464,af-south-game-286,"Cape Town, South Africa",2000
+168241268,me-south-game-287,Bahrain,1000
+169359886,au-east-game-288,"Sydney, Australia",2000
+172963809,us-east-game-289,"Virginia, USA",1000
+181947012,us-west-game-290,"Oregon, USA",1000
+169206867,eu-west-game-291,"Dublin, Ireland",500
+178965213,eu-central-game-292,"Frankfurt, Germany",2000
+173820026,ap-southeast-game-293,Singapore,3000
+183307497,ap-northeast-game-294,"Tokyo, Japan",500
+170832171,ap-south-game-295,"Mumbai, India",2000
+175494654,sa-east-game-296,"Sao Paulo, Brazil",3000
+175403742,ca-central-game-297,"Toronto, Canada",2000
+173255575,af-south-game-298,"Cape Town, South Africa",2000
+171656196,me-south-game-299,Bahrain,500
+180290986,au-east-game-300,"Sydney, Australia",1000
+169433422,us-east-game-301,"Virginia, USA",1000
+177937309,us-west-game-302,"Oregon, USA",3000
+179992602,eu-west-game-303,"Dublin, Ireland",1500
+171820115,eu-central-game-304,"Frankfurt, Germany",3000
+169484005,ap-southeast-game-305,Singapore,1000
+173274743,ap-northeast-game-306,"Tokyo, Japan",3000
+178388765,ap-south-game-307,"Mumbai, India",1500
+175992348,sa-east-game-308,"Sao Paulo, Brazil",3000
+176895168,ca-central-game-309,"Toronto, Canada",3000
+183942539,af-south-game-310,"Cape Town, South Africa",2000
+181733189,me-south-game-311,Bahrain,1500
+173182562,au-east-game-312,"Sydney, Australia",1000
+175185209,us-east-game-313,"Virginia, USA",2000
+173361953,us-west-game-314,"Oregon, USA",3000
+175546993,eu-west-game-315,"Dublin, Ireland",3000
+171353442,eu-central-game-316,"Frankfurt, Germany",2000
+168404988,ap-southeast-game-317,Singapore,3000
+178557621,ap-northeast-game-318,"Tokyo, Japan",3000
+169292538,ap-south-game-319,"Mumbai, India",500
+184480168,sa-east-game-320,"Sao Paulo, Brazil",500
+168950101,ca-central-game-321,"Toronto, Canada",500
+175168518,af-south-game-322,"Cape Town, South Africa",1500
+183108427,me-south-game-323,Bahrain,1000
+170421599,au-east-game-324,"Sydney, Australia",3000
+169056549,us-east-game-325,"Virginia, USA",1000
+177302240,us-west-game-326,"Oregon, USA",1000
+180786747,eu-west-game-327,"Dublin, Ireland",2000
+171481721,eu-central-game-328,"Frankfurt, Germany",2000
+182042168,ap-southeast-game-329,Singapore,500
+170083425,ap-northeast-game-330,"Tokyo, Japan",500
+169300226,ap-south-game-331,"Mumbai, India",500
+173252555,sa-east-game-332,"Sao Paulo, Brazil",500
+173269233,ca-central-game-333,"Toronto, Canada",1500
+178637285,af-south-game-334,"Cape Town, South Africa",1000
+173429719,me-south-game-335,Bahrain,2000
+182838203,au-east-game-336,"Sydney, Australia",3000
+181589612,us-east-game-337,"Virginia, USA",2000
+169254137,us-west-game-338,"Oregon, USA",500
+179634014,eu-west-game-339,"Dublin, Ireland",1000
+168778898,eu-central-game-340,"Frankfurt, Germany",3000
+174573019,ap-southeast-game-341,Singapore,2000
+174579760,ap-northeast-game-342,"Tokyo, Japan",1000
+183375095,ap-south-game-343,"Mumbai, India",1500
+184223499,sa-east-game-344,"Sao Paulo, Brazil",500
+176161771,ca-central-game-345,"Toronto, Canada",2000
+169959534,af-south-game-346,"Cape Town, South Africa",500
+179510864,me-south-game-347,Bahrain,3000
+171190757,au-east-game-348,"Sydney, Australia",1500
+172115407,us-east-game-349,"Virginia, USA",1000
+173444796,us-west-game-350,"Oregon, USA",500
+180173631,eu-west-game-351,"Dublin, Ireland",1500
+179982136,eu-central-game-352,"Frankfurt, Germany",1500
+173942241,ap-southeast-game-353,Singapore,2000
+177513112,ap-northeast-game-354,"Tokyo, Japan",500
+176895112,ap-south-game-355,"Mumbai, India",2000
+184318791,sa-east-game-356,"Sao Paulo, Brazil",2000
+183479470,ca-central-game-357,"Toronto, Canada",2000
+180498985,af-south-game-358,"Cape Town, South Africa",3000
+181249190,me-south-game-359,Bahrain,1000
+172771697,au-east-game-360,"Sydney, Australia",3000
+177622946,us-east-game-361,"Virginia, USA",3000
+174971469,us-west-game-362,"Oregon, USA",2000
+171214921,eu-west-game-363,"Dublin, Ireland",1500
+170674313,eu-central-game-364,"Frankfurt, Germany",1500
+177502821,ap-southeast-game-365,Singapore,2000
+179732639,ap-northeast-game-366,"Tokyo, Japan",500
+184410809,ap-south-game-367,"Mumbai, India",1500
+176872958,sa-east-game-368,"Sao Paulo, Brazil",1000
+170433072,ca-central-game-369,"Toronto, Canada",2000
+173396035,af-south-game-370,"Cape Town, South Africa",1500
+179245615,me-south-game-371,Bahrain,1500
+182943394,au-east-game-372,"Sydney, Australia",1500
+174856087,us-east-game-373,"Virginia, USA",2000
+169083771,us-west-game-374,"Oregon, USA",3000
+177896184,eu-west-game-375,"Dublin, Ireland",1000
+170559332,eu-central-game-376,"Frankfurt, Germany",500
+182665372,ap-southeast-game-377,Singapore,1000
+176467761,ap-northeast-game-378,"Tokyo, Japan",1000
+173620328,ap-south-game-379,"Mumbai, India",1000
+178090700,sa-east-game-380,"Sao Paulo, Brazil",3000
+170506320,ca-central-game-381,"Toronto, Canada",500
+179473885,af-south-game-382,"Cape Town, South Africa",2000
+177536068,me-south-game-383,Bahrain,500
+178003131,au-east-game-384,"Sydney, Australia",500
+178881749,us-east-game-385,"Virginia, USA",2000
+172559816,us-west-game-386,"Oregon, USA",3000
+173801972,eu-west-game-387,"Dublin, Ireland",1500
+177695190,eu-central-game-388,"Frankfurt, Germany",1500
+183358037,ap-southeast-game-389,Singapore,3000
+174419346,ap-northeast-game-390,"Tokyo, Japan",3000
+171944024,ap-south-game-391,"Mumbai, India",3000
+182046458,sa-east-game-392,"Sao Paulo, Brazil",3000
+178316338,ca-central-game-393,"Toronto, Canada",3000
+181648073,af-south-game-394,"Cape Town, South Africa",500
+180338744,me-south-game-395,Bahrain,1000
+183251087,au-east-game-396,"Sydney, Australia",2000
+168155628,us-east-game-397,"Virginia, USA",2000
+169597187,us-west-game-398,"Oregon, USA",500
+181167463,eu-west-game-399,"Dublin, Ireland",2000
+183661302,eu-central-game-400,"Frankfurt, Germany",1500
+170185697,ap-southeast-game-401,Singapore,500
+181186194,ap-northeast-game-402,"Tokyo, Japan",500
+172285029,ap-south-game-403,"Mumbai, India",500
+181994726,sa-east-game-404,"Sao Paulo, Brazil",500
+178384963,ca-central-game-405,"Toronto, Canada",500
+174040547,af-south-game-406,"Cape Town, South Africa",3000
+177240840,me-south-game-407,Bahrain,2000
+169253135,au-east-game-408,"Sydney, Australia",500
+169610620,us-east-game-409,"Virginia, USA",2000
+178868378,us-west-game-410,"Oregon, USA",2000
+180387831,eu-west-game-411,"Dublin, Ireland",2000
+177055466,eu-central-game-412,"Frankfurt, Germany",2000
+177171779,ap-southeast-game-413,Singapore,3000
+183944424,ap-northeast-game-414,"Tokyo, Japan",3000
+183595600,ap-south-game-415,"Mumbai, India",2000
+179000155,sa-east-game-416,"Sao Paulo, Brazil",500
+169926460,ca-central-game-417,"Toronto, Canada",1000
+174328217,af-south-game-418,"Cape Town, South Africa",500
+174696891,me-south-game-419,Bahrain,1000
+184341827,au-east-game-420,"Sydney, Australia",500
+167827364,us-east-game-421,"Virginia, USA",500
+181426047,us-west-game-422,"Oregon, USA",3000
+176482225,eu-west-game-423,"Dublin, Ireland",1500
+183560678,eu-central-game-424,"Frankfurt, Germany",500
+174225026,ap-southeast-game-425,Singapore,2000
+176501838,ap-northeast-game-426,"Tokyo, Japan",500
+169887352,ap-south-game-427,"Mumbai, India",2000
+179028018,sa-east-game-428,"Sao Paulo, Brazil",2000
+170934689,ca-central-game-429,"Toronto, Canada",500
+172150081,af-south-game-430,"Cape Town, South Africa",3000
+178682299,me-south-game-431,Bahrain,1500
+172439981,au-east-game-432,"Sydney, Australia",3000
+174929757,us-east-game-433,"Virginia, USA",500
+180184392,us-west-game-434,"Oregon, USA",1000
+178252282,eu-west-game-435,"Dublin, Ireland",2000
+180667882,eu-central-game-436,"Frankfurt, Germany",1500
+174442572,ap-southeast-game-437,Singapore,2000
+184370791,ap-northeast-game-438,"Tokyo, Japan",1000
+180655775,ap-south-game-439,"Mumbai, India",2000
+178345770,sa-east-game-440,"Sao Paulo, Brazil",1000
+176396953,ca-central-game-441,"Toronto, Canada",500
+179193675,af-south-game-442,"Cape Town, South Africa",3000
+171330169,me-south-game-443,Bahrain,1500
+175441249,au-east-game-444,"Sydney, Australia",1500
+183730540,us-east-game-445,"Virginia, USA",2000
+171764849,us-west-game-446,"Oregon, USA",500
+168390448,eu-west-game-447,"Dublin, Ireland",3000
+181874047,eu-central-game-448,"Frankfurt, Germany",3000
+183806449,ap-southeast-game-449,Singapore,2000
+176223068,ap-northeast-game-450,"Tokyo, Japan",1500
+178731828,ap-south-game-451,"Mumbai, India",1000
+178564954,sa-east-game-452,"Sao Paulo, Brazil",1000
+183574318,ca-central-game-453,"Toronto, Canada",1500
+170744971,af-south-game-454,"Cape Town, South Africa",1500
+175843203,me-south-game-455,Bahrain,1500
+180632381,au-east-game-456,"Sydney, Australia",2000
+170635611,us-east-game-457,"Virginia, USA",1500
+183537058,us-west-game-458,"Oregon, USA",1500
+168668348,eu-west-game-459,"Dublin, Ireland",1000
+174460611,eu-central-game-460,"Frankfurt, Germany",1500
+179914620,ap-southeast-game-461,Singapore,500
+167787554,ap-northeast-game-462,"Tokyo, Japan",1000
+183059423,ap-south-game-463,"Mumbai, India",1000
+171566944,sa-east-game-464,"Sao Paulo, Brazil",1000
+183502970,ca-central-game-465,"Toronto, Canada",500
+184349160,af-south-game-466,"Cape Town, South Africa",500
+179733806,me-south-game-467,Bahrain,2000
+177679774,au-east-game-468,"Sydney, Australia",3000
+184056945,us-east-game-469,"Virginia, USA",3000
+172586630,us-west-game-470,"Oregon, USA",1000
+179542556,eu-west-game-471,"Dublin, Ireland",1000
+178202319,eu-central-game-472,"Frankfurt, Germany",1000
+179356256,ap-southeast-game-473,Singapore,500
+168265470,ap-northeast-game-474,"Tokyo, Japan",1000
+172337738,ap-south-game-475,"Mumbai, India",3000
+176541589,sa-east-game-476,"Sao Paulo, Brazil",3000
+177564408,ca-central-game-477,"Toronto, Canada",3000
+175858458,af-south-game-478,"Cape Town, South Africa",1500
+175469373,me-south-game-479,Bahrain,1000
+180270963,au-east-game-480,"Sydney, Australia",3000
+182186463,us-east-game-481,"Virginia, USA",3000
+180246786,us-west-game-482,"Oregon, USA",1500
+179725449,eu-west-game-483,"Dublin, Ireland",1000
+172152349,eu-central-game-484,"Frankfurt, Germany",2000
+184237858,ap-southeast-game-485,Singapore,2000
+170741544,ap-northeast-game-486,"Tokyo, Japan",1500
+179936423,ap-south-game-487,"Mumbai, India",1000
+177457260,sa-east-game-488,"Sao Paulo, Brazil",3000
+183982510,ca-central-game-489,"Toronto, Canada",3000
+183358684,af-south-game-490,"Cape Town, South Africa",2000
+168202882,me-south-game-491,Bahrain,2000
+174747248,au-east-game-492,"Sydney, Australia",2000
+173457825,us-east-game-493,"Virginia, USA",3000
+172966857,us-west-game-494,"Oregon, USA",1000
+175419199,eu-west-game-495,"Dublin, Ireland",2000
+180531888,eu-central-game-496,"Frankfurt, Germany",2000
+170543206,ap-southeast-game-497,Singapore,1500
+183297196,ap-northeast-game-498,"Tokyo, Japan",1000
+179388286,ap-south-game-499,"Mumbai, India",3000
+183743362,sa-east-game-500,"Sao Paulo, Brazil",1000
