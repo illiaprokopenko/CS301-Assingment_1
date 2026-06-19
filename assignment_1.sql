@@ -79,13 +79,24 @@ with full_player_info as (select player.playerid,
                                    class_name,
                                    playerid,
                                    nickname,
+                                   status,
                                    sum(end_session - start_session) as total_hours
                             from full_player_info
                             where level >= 10
-                            GROUP BY class_name, country, nickname, playerid),
-     top_country_player as (select *,
-                        row_number() over (partition by country ORDER BY total_hours desc) as place
-       from total_player_hours
-        where total_hours >= 5)
-select * from top_country_player
-where place <= 3;
+                            GROUP BY class_name, country, nickname, playerid, status),
+     top_country_active_player as (select *,
+                                          row_number() over (partition by country ORDER BY total_hours desc) as place
+                                   from total_player_hours
+                                   where total_hours >= 5 and status = 'active'),
+     top_country_banned_player as (
+         select *,
+                row_number() over (partition by country ORDER BY total_hours desc) as place
+         from total_player_hours
+         where total_hours >= 5 and status = 'banned'
+     )
+select * from top_country_active_player
+where place <= 3
+UNION
+select * from top_country_banned_player
+where place <= 3
+Order By status, country, place;
